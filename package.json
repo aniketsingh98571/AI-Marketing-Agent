@@ -1,0 +1,19 @@
+{
+  "name": "procedure-marketing-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.21.0",
+    "axios": "^1.12.2",
+    "express": "^5.1.0"
+  }
+}
