@@ -1,4 +1,4 @@
-# Marketing Bot
+# Marketing Agent
 
 A Node.js API service that scrapes web content and generates LinkedIn marketing posts using Google's Gemini AI. The service analyzes website content and creates engaging social media posts based on specified topics and target audiences.
 
